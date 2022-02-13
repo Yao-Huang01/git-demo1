@@ -11,5 +11,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-resolve bug!
+resolve bug! master
 hot-fix test!
